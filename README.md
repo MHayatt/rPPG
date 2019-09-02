@@ -1,6 +1,6 @@
-# rPPG
+# Heart Rate Estimation using facial videos
 
-This repo monitors real time cardiac activities of a person through remote photoplethysmography(rPPG) without any physical contact with sensor, by detecing blood volume pulse induced subtle color changes from video stream through webcam sensor or a video file.
+This repo estimates heart rate (pulse rate) of a person through remote photoplethysmography(rPPG) without any physical contact with sensor, by detecing Blood Volume Pulse (BVP) induced subtle color changes from video stream through webcam sensor or a video file.
 
 ### Pre Processing 
 Skin pixels play significant role in extraction of rPPG signal therefore, we trained first ever deep learning model for semantic 
